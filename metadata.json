@@ -1,0 +1,6 @@
+{
+  "name": "OSINT: Последний След",
+  "description": "Детективная OSINT игра. Вы расследуете загадочные исчезновения, используя интерфейс полицейского компьютера.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
